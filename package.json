@@ -1,0 +1,16 @@
+{
+  "name": "learn-kafka-streaming",
+  "version": "1.0.0",
+  "description": "Kafka Streams are a way to described/program operations on streams of data. It is a way to describe pipelines. It makes use of functional programming concepts.",
+  "main": "index.js",
+  "dependencies": {
+    "kafka-streams": "^4.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
